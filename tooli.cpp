@@ -9,6 +9,6 @@ int main()
     double x = 5.9999;
     int i = x;
 double y = 123.5;
-    printf("The integer is: %d\n", (int)x+(int)y);
+    printf("The integer is <test>: %d\n", (int)x+(int)y);
     printf("The float is:   %d\n", i);
 }
